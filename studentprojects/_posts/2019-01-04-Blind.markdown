@@ -3,7 +3,7 @@ layout: post
 title:  "Blind Trust"
 category: student
 date:   2019-01-01 00:00:00
-preview: /studentprojects/img/BlindTrust.jpeg
+preview: /studentprojects/img/Blindtrust.jpeg
 ---
 
 {% include youtubePlayer.html id="W7PXLLXxDQQ" %}

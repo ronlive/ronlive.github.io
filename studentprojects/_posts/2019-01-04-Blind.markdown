@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Blind Trust"
+category: student
+date:   2019-01-01 00:00:00
+preview: /studentprojects/img/BlindTrust.png
+---
+
+{% include youtubePlayer.html id="W7PXLLXxDQQ" %}
+
+<br/>
+Technology : Unity3D / C#
+<br/>
+
+ Blind Trust is a two-player, cooperative, first-person game where the deaf lead the blind on a fantasy island using binaural audio. The Soldier uses sound to lead the Oracle through the level where the Oracle will hear obstacles, reveal them, and allow the Soldier to destroy them.
+ This game was a thesis project which we published on Steam. 
+ <ul>
+ <li> Develop networked gameplay using Unity's Raknet. </li>
+ <li> Develop technology for the in-game blind character to hide the world yet be able to navigate it with sound.</li>
+ <li> Lead a team of Artists and Producers.</li>
+ </ul>
+

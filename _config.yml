@@ -1,0 +1,14 @@
+# Site settings
+title: rohan bhukan
+email: ro1bhukan@gmail.com
+linkedin: www.linkedin.com/in/brohan11
+description: > # this means to ignore newlines until "baseurl:"
+  Hi, I am Rohan, a game programmer who likes to smash keyboard keys by day and controller keys by night. Currently working with War Drum Studios as a gameplay/ genralist programmer.
+  I’d love to chat about job opportunities,  projects that I have worked on, new tech in game industry or just anything in general.
+baseurl: ''
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty

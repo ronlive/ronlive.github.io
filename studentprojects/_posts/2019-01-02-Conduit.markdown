@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Conduit"
+category: student
+date:   2019-01-01 00:00:00
+preview: /studentprojects/img/Conduit.jpeg
+---
+
+{% include youtubePlayer.html id="Ptrfmw32gRw" %}
+
+<br/>
+Technology : Unreal Engine 4 / Blueprints
+<br/>
+
+Move around levels using magnetic fields where the player is the charged particle. All interactivity with the magnetic fields operates by the first right-hand rule of electromagnetism, where the player charge matters (positive or negative) as well as the direction the player enters the field from.
+I worked on basic gameplay mechanics related to player movement in the game.

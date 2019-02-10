@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Light Runner"
+category: student
+date:   2019-01-01 00:00:00
+preview: /studentprojects/img/Runner.jpeg
+---
+
+{% include youtubePlayer.html id="1pHxRdiyFNA" %}
+
+
+<br/>
+Technology : Phaser / Javascript
+<br/>
+<br/>
+Lightrunner is a fast paced scrolling game protoype where you block waves of bullets with laser trails that the player leaves behind. You must match the color of your trail with bullet color to block them.
+
+<ul>
+<li>Developed core bullet blocking mechanic.</li>
+<li>Handled animation, sound and particle effetcs.</li>
+</ul>

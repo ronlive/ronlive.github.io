@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Ark: Survival Evolved"
+category: professional
+date:   2019-01-01 00:00:00
+preview: professionalprojects/img/Ark.png
+---
+
+{% include youtubePlayer.html id="lN2zlMm1i9I" %}
+
+<br/>
+Technology : Unreal Engine 4 / C++
+<br/>
+<br/>
+Ark: Survival Evolved is a port of the original Ark game present on other platforms to iOS and Android. This was a technically challenging project since it is a multiplayer game with visually stunning graphics.
+We had to make sure it looked as good on mobile and performed well. I worked on following technologies in this project.
+<ul>
+<li>Programmed different gameplay mechanics such as creature teleportation, character expiration, autojump, player beacon on death, adaptive AI based on player level and spawn times, etc. </li>
+<li>Added new in-game building structures, upgraded and added new game abilities to existing creatures. Merged gameplay code for new creatures from PC repository.  </li>
+<li>Mobilized game controls for some in-game content. Optimized some game mechanics such as consolidating multiple actor drops to one to reduce actor count.  </li>
+<li>Split landscape into submaps for streaming and create landscape material with ES3 rendering constraints. Built technology to optimize foliage, underwater maps and cave streaming. </li>
+<li>Coupling backend and frontend for unofficial server integration. </li>
+<li>Helped develop server transfer system where player data could be migrated to a different server. </li>
+<li>Asset reference cleanup to remove unwanted asset references and reduce content size. Nativized certain animation blueprints. </li>
+<li>Miscellaneous engine crash fixes. Fixed multiplayer issues related to replication.</li>
+<ul>
+
+
+

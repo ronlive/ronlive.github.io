@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "My.Suit 3D"
+category: professional
+date:   2019-01-01 00:00:00
+preview: professionalprojects/img/MySuit.jpeg
+---
+
+{% include youtubePlayer.html id="CMZmGzGAWRg" %}
+
+<br/>
+Technology : Unity 3D / C#
+<br/>
+<br/>
+This application was built for iOS for My.Suit who excels in creating custom suits. The goal was to create a 3D application that allows a customer to customize the suit according to their needs by giving them maximum selections and be able to order it through the app.
+
+<ul>
+<li>Managing and loading hundreds of fabric textures and be able to navigate the app seamlessly.</li>
+<li>Develop UI for  various suit options and apply all the possible customizations to the 3D model.</li>
+<li>Develop technology to relay 3D model to a remote computer for viewing.</li>
+ 

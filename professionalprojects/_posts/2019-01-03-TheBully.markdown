@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Bully: Anniversary Edition"	
+category: professional
+date:   2019-01-01 00:00:00
+preview: professionalprojects/img/Bully.jpg
+---
+
+{% include youtubePlayer.html id="OImxuxMcdjw" %}
+
+<br/>
+Technology : C++
+<br/>
+<br/>
+Bully: Anniversary Addition is the infamous Rockstar's title present on other platforms. War Drum Studio was reponsible for porting the game to iOS and Android.
+
+<ul>
+<li> Developed intuitive UI for various gameplay mechanics.</li>
+<li> Made it so that certain missions are mobile friendly by modifying AI behavior to be less aggressive. </li>
+<li> Worked with QA and designers to come up with creative solutions to solve gameplay issues.</li>
+<ul>
+
+

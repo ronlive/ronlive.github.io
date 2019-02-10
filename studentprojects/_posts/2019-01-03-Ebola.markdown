@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Ebola Clinic"
+category: student
+date:   2019-01-01 00:00:00
+preview: /studentprojects/img/Ebola.jpeg
+---
+
+![Ebola Clinic](/studentprojects/img/ECamp.png){:class="img-responsive"}
+
+<br/>
+Technology : Unity3D / C#
+<br/>
+
+
+Ebola Clinic is an Ebola camp simulation  protoype where the goal is to save as many patient NPC's as possible with given resources and following correct procedures. Failing to do so will either infect doctors treating them or run out of resources.
+This was a serious game developed to showcase the difficulties involved in managing an Ebola campsite. Here is the [Abstract]({{ site.baseurl }}{% link /studentprojects/EbolaClinicAbstract.pdf %}).
+
+<ul>
+<li>Architected the clinic management system. </li>
+<li>Working with artists and designers to showcase different game entities with minimal Art.</li>
+</ul>
